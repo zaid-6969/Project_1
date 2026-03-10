@@ -22,7 +22,7 @@ const Login = () => {
   }
 
   return (
-    <main>
+    <main className="layout-main">
       <div className="form-container">
         <h1>Login</h1>
 
